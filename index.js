@@ -15,6 +15,7 @@ const undef = require('ifnotundef');
  * Check if two arrays are equal with options (deep? shallow? ...)
  *
  * Deep comparison compares arrays recursively.
+ *
  * Other type of objects (objets, buffers, ...) are still compared with strict equality (===).
  *
  * @module arr-equal
