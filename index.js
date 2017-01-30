@@ -2,17 +2,17 @@
 
 /**
  *
- * [![GitHub version](https://badge.fury.io/gh/pouc%2Fmy-node-template.svg)](https://badge.fury.io/gh/pouc%2Fmy-node-template)
- * [![npm version](https://badge.fury.io/js/my-node-template.svg)](https://badge.fury.io/js/my-node-template)
- * [![NPM monthly downloads](https://img.shields.io/npm/dm/my-node-template.svg?style=flat)](https://npmjs.org/package/my-node-template)
- * [![Build Status](https://travis-ci.org/pouc/my-node-template.svg?branch=master)](https://travis-ci.org/pouc/my-node-template)
- * [![Dependency Status](https://gemnasium.com/badges/github.com/pouc/my-node-template.svg)](https://gemnasium.com/github.com/pouc/my-node-template)
- * [![Coverage Status](https://coveralls.io/repos/github/pouc/my-node-template/badge.svg?branch=master)](https://coveralls.io/github/pouc/my-node-template?branch=master)
- * [![Known Vulnerabilities](https://snyk.io/test/github/pouc/my-node-template/badge.svg)](https://snyk.io/test/github/pouc/my-node-template)
+ * [![GitHub version](https://badge.fury.io/gh/pouc%2Farr-equal.svg)](https://badge.fury.io/gh/pouc%2Farr-equal)
+ * [![npm version](https://badge.fury.io/js/arr-equal.svg)](https://badge.fury.io/js/arr-equal)
+ * [![NPM monthly downloads](https://img.shields.io/npm/dm/arr-equal.svg?style=flat)](https://npmjs.org/package/arr-equal)
+ * [![Build Status](https://travis-ci.org/pouc/arr-equal.svg?branch=master)](https://travis-ci.org/pouc/arr-equal)
+ * [![Dependency Status](https://gemnasium.com/badges/github.com/pouc/arr-equal.svg)](https://gemnasium.com/github.com/pouc/arr-equal)
+ * [![Coverage Status](https://coveralls.io/repos/github/pouc/arr-equal/badge.svg?branch=master)](https://coveralls.io/github/pouc/arr-equal?branch=master)
+ * [![Known Vulnerabilities](https://snyk.io/test/github/pouc/arr-equal/badge.svg)](https://snyk.io/test/github/pouc/arr-equal)
  *
  * A template for all my nodejs projects
  *
- * @module my-node-template
+ * @module arr-equal
  * @typicalname template
  * @author Lo&iuml;c Formont
  *
@@ -20,7 +20,7 @@
  *
  * @example
  * ```javascript
- * var template = require("my-node-template");
+ * var equal = require("arr-equal");
  * ```
  */
 module.exports = {};
