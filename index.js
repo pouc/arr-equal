@@ -26,6 +26,14 @@ const undef = require('ifnotundef');
  * @example
  * ```javascript
  * var equal = require("arr-equal");
+ *
+ * equal([1, 2, 3], [1, 2, 3]) ==> true
+ *
+ * equal([1, 2, 3], [1, 3, 2]) ==> false
+ * equal([1, 2, 3], [1, 3, 2], {order: false}) ==> true
+ *
+ * equal([1, [2, 3]], [1, [2, 3]]) ==> false
+ * equal([1, [2, 3]], [1, [2, 3]], {deep: true}) ==> true
  * ```
  */
 module.exports = function(arr1, arr2, options) {
